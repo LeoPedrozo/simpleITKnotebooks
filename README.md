@@ -64,3 +64,5 @@ In some situations, such as a tutorial session, you may not have internet access
 cd SimpleITK-Notebooks
 Utilities/downloaddata.py Data/ Data/manifest.json
 ```
+Thanks to
+Z. Yaniv, B. C. Lowekamp, H. J. Johnson, R. Beare, "SimpleITK Image-Analysis Notebooks: a Collaborative Environment for Education and Reproducible Research", J Digit Imaging., 31(3): 290-303, 2018, https://doi.org/10.1007/s10278-017-0037-8.
